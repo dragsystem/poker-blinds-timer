@@ -1,0 +1,1 @@
+This is an Android application which provides timing functionality to notify players when the blinds are changing in a game of poker.
